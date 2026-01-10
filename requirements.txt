@@ -1,0 +1,8 @@
+torch
+numpy
+pandas
+matplotlib
+regex
+streamlit
+scikit-learn
+tokenizer
